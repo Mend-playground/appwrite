@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "chart.js": "^3.8.2",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.0.0",
     "pell": "^1.0.6",
     "prismjs": "^1.28.0",
     "turndown": "^7.1.1"
