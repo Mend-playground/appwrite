@@ -79,7 +79,7 @@
     "require-dev": {
         "appwrite/sdk-generator": "0.26.0",
         "ext-fileinfo": "*",
-        "phpunit/phpunit": "9.5.20",
+        "phpunit/phpunit": "9.6.33",
         "squizlabs/php_codesniffer": "^3.6",
         "swoole/ide-helper": "4.8.9",
         "textalk/websocket": "1.5.7"
